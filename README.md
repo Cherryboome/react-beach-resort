@@ -3,8 +3,6 @@ This project is created using React & Redux. This is a light version of a hotel 
 
 # [DEMO](https://cherry-beach-resort.netlify.com)
 
-<a href="https://cherry-beach-resort.netlify.com" target="_blank">Test</a>
-
 # Technologies
 * React
 * Rudux
